@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    background-position: fixed;
+}
+.orange {
+    background-color: orange;
+    padding: 10%;
+
+}
+.white {
+    background-image: url(ashok.jpg) ;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    padding: 10%;
+
+}
+
+.green{
+    background-color: green;
+    padding: 10%;
+}
